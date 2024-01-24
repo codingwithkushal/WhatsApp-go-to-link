@@ -5,6 +5,7 @@ body {
     margin-top: 55px;
 }
 img{
+    display: inline-block;
     height: 105px;
     width: 294px;
 }
