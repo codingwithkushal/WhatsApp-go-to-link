@@ -4,8 +4,15 @@ body {
     justify-content: center;
     margin-top: 55px;
 }
-img{
+.whatsapp{
+    margin: 10px 0 0 20px;
+    margin: 0 0 0 17px;
     display: block;
-    height: 105px;
+    height: 90px;
     width: 294px;
+}
+.telegram img{
+    margin: 13px 0 0 -76px;
+    height: 140px;
+    width: 414px;
 }
